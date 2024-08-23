@@ -4,6 +4,6 @@ This repository is all of the code used to build an app that my team called The 
 
 Major features: 
 - Search page that enables users to sort items based on specific words or categories
-- Chat between users
-- Customizeable profile page
+- Chat between users interested in buying/selling an item
+- Customizable profile page
 - Post page that allows a user to upload up to 5 images 
