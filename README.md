@@ -1,6 +1,6 @@
 # themarket
 
-This repository is all of the code used to build an app that my team called The Market. The app enables users to buy and sell their items. 
+This repository is all of the code used to build an app that my team called The Market. The app enables Stanford students to buy and sell their items. 
 
 Major features: 
 - Search page that enables users to sort items based on specific words or categories
