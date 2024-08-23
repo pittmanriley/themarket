@@ -1,0 +1,53 @@
+﻿The Market LLC Terms of Service
+1. Introduction
+Welcome to The Market LLC, a private and authenticated e-commerce platform for university students (collectively, "Users"). These Terms of Service ("Terms") govern your access and use of The Market LLC and its services (collectively, the "Platform"). By accessing or using the Platform, you agree to be bound by these Terms, our Privacy Policy, and any other applicable guidelines or policies posted on the Platform. If you do not agree to these Terms, you may not access or use the Platform.
+2. Eligibility
+To access and use the Platform, you must:
+* Be a currently enrolled student at an accredited university or college.
+* Provide your valid university or college email address for verification.
+* Be at least 18 years old.
+* Be of legal capacity to enter into this Agreement.
+The Market LLC reserves the right to verify your eligibility at any time and to deny or revoke your access to the Platform if you do not meet or violate these eligibility requirements.
+3. Accounts and Authentication
+3.1 Account Creation: To use certain features of the Platform, you may need to create an account. You are responsible for maintaining the confidentiality of your account information, including your password, and for all activity that occurs under your account. You agree to notify The Market LLC immediately of any unauthorized use of your account or any other breach of security.
+3.2 Authentication: The Market LLC reserves the right to implement additional authentication measures at any time, including, but not limited to, two-factor authentication or verification of your university or college affiliation.
+4. User Conduct and Content
+4.1 Prohibited Content and Activities: You are prohibited from uploading, posting, or otherwise transmitting any Content (as defined below) that:
+* Infringes upon any intellectual property or other rights of any third party.
+* Is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, sexually explicit, or invasive of another's privacy.
+* Is fraudulent, misleading, or deceptive.
+* Promotes discrimination or violence.
+* Contains malicious code or is intended to harm the Platform or its users.
+* Constitutes advertising or promotion of unauthorized goods or services.
+* Impersonates another person or entity.
+* Violates any applicable laws or regulations.
+4.2 Content Ownership: You retain all ownership rights to your Content. However, by submitting or posting Content to the Platform, you grant The Market LLC a non-exclusive, royalty-free, worldwide license to use, reproduce, modify, publish, distribute, and display such Content in connection with the Platform and its services.
+4.3 Monitoring and Enforcement: The Market LLC reserves the right, but not the obligation, to monitor and review any Content on the Platform. We may remove or modify any Content that, in our sole discretion, violates these Terms or is otherwise objectionable. We may also terminate your access to the Platform for any reason, at any time, without notice.
+5. Privacy and Data Usage
+The Market LLC takes the privacy of your information seriously. For detailed information about how we collect, use, and share your data, please refer to our separate Privacy Policy, available in settings.
+6. Transactions and Payments
+6.1. Private Transactions: The Market LLC currently provides a platform for Users to privately list, negotiate, and exchange goods and services among themselves. We facilitate communication and listing tools, but do not handle or process any payments between Users. Users are responsible for arranging payment directly with each other, using their preferred methods (e.g., cash, venmo, etc.).
+6.2. Future Payment Processing: The Market LLC reserves the right to introduce secure payment processing services in the future. If and when this occurs, we will:
+* Clearly communicate the terms and conditions of the payment processing service, including applicable fees.
+* Implement security measures to protect User data and financial information.
+* Provide Users with the choice to opt-in to or out of utilizing the payment processing service.
+* Update these Terms of Service to reflect the addition of payment processing and the related responsibilities of both The Market LLC and Users.
+6.3. User Responsibility: Regardless of payment processing availability, Users are responsible for:
+* Complying with all applicable laws and regulations when engaging in transactions on the Platform.
+* Accurately and honestly representing their items and services.
+* Communicating clearly and transparently with potential buyers or sellers.
+* Completing transactions in a timely and ethical manner.
+6.4. Disclaimer: The Market LLC assumes no responsibility for any disputes or issues arising from private transactions between Users. We encourage Users to exercise caution and common sense when conducting transactions on the Platform.
+6.5. Future Updates: We reserve the right to modify these Terms at any time. Any changes will be posted on the Platform and will be effective immediately upon their posting. Users are responsible for reviewing these Terms periodically for any updates.
+7. Third-Party Content and Links
+The Platform may contain links to third-party websites or services through advetisement. The Market LLC is not responsible for the content or practices of any third-party websites or services. We encourage you to review the terms and conditions of any third-party website or service before you use it.
+8. Disclaimer of Warranties
+THE PLATFORM AND ITS SERVICES ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE MARKET LLC DOES NOT WARRANT THAT THE PLATFORM WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE.
+9. Limitation of Liability
+IN NO EVENT SHALL THE MARKET LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE PLATFORM OR ITS SERVICES. THIS LIMITATION APPLIES REGARDLESS OF THE LEGAL THEORY ON WHICH THE CLAIM IS BASED, INCLUDING, BUT NOT LIMITED TO, CONTRACT, TORT, OR STRICT LIABILITY.
+10. Indemnification
+10.1 Agreement to Indemnify: You agree to indemnify, defend, and hold harmless The Market LLC, its affiliates, officers, directors, employees, agents, licensors, suppliers, and any third-party information providers to the Service from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation of these Terms of Service by you or any other liabilities related to your use of the Service. This includes but is not limited to any negligent or wrongful conduct by you or any other person accessing the Service using your account.
+10.2 Scope of Indemnification: Indemnification includes, without limitation, legal fees, loss, liability, or injury arising from (i) your breach of these Terms of Service, (ii) your infringement of any intellectual property or other rights of any person or entity, (iii) your wrongful or unlawful use of the Service, and (iv) any other party’s access and use of the Service with your unique username, password, or other appropriate security code.
+10.3 Process of Indemnification: In the event of any potential indemnity obligation under this section, The Market LLC shall provide you with written notice of any such claim, suit, or proceeding. The Market LLC reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify The Market LLC, and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of The Market LLC. The Market LLC will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
+10.4 Survival: This indemnification provision shall survive the termination or expiration of these Terms of Service and your use of the Service.
+The Market LLC.

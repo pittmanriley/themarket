@@ -1,0 +1,105 @@
+# THE_MARKET_APP TODO
+
+1. Firebase connection
+	- how can we connect to send data to and from app?
+	- do we have ability to select cache sizes? or is that done with firebase connection automatically?
+	- need Riley to go crazy on Firebase and figure this out
+
+2. Initializing HomePageController:
+	- there needs to be some sort of List<Item> that gets updated
+	- obviously we want lazy load from firebase to account
+		* when user scrolls down more items load
+		* ex: display first 100 "hottest" items available in user screen until they scroll down further
+			- what does it mean for an item to be "hot"?
+
+3. Define "Item" class:
+	- name (should display other previously used names of items that are similar)
+		* what if it's an electronic item? (serial number?)
+	- type (from a select type of chachkies, or other)
+	- image -- how do we do this one? what is image type in flutter to be displayed?
+	- notes
+	- seller
+	- previous buyers (if public/private?)
+	- reviews? // should this go into profile class? should their be a review object that has member values? (super easy table to run SQL queries from if we did do it this way)
+		* ex: class Review { string itemId, dateTime time, string sellerId, string buyerId, int rating... }
+			- in future we could do a whole review optimization/run ML algorithms on this data to see what sells best
+
+	--- item class --- super class -> derived classes
+		ex: class Technology extends Item {...};
+				class HandCrafted extends Item {...}; ... etc, you get the idea
+
+
+4. Define "Profile" class:
+	- how do we allow users to make their profile unique/attractive to maximize sales
+
+5. DM capabilities:
+	- how does messaging on normal apps work? 
+	- user sends message to firebase, then firebase to intended recipient. (we can see all messages lol, but this also helps with data caching and better UX)
+		- if users have no internet cache does not need to include messages they haven't opened before (i hope we have some say in the caching capabilities of our app through firebase because it would be lit)
+	
+
+6. Item Page:
+	- item needs its own page that should display PRETTILY all the stuff in the item class
+	- can you do TechnologyPage extends ItemPage {} ... ?
+	- (fyi, this type of code structure is called polymorphism, in c++ you would define virtual fn()=0 in the base class to describe a function that must be initialized by the derived class)
+
+7. Routing:
+	- when the app opens (once user logged in), should open to HomePage
+	- any navigation to the home page should refresh the home page (get new posts)
+
+Riley's To do: 
+- what if an item has two categories? Ex: Free and an home decor 
+- add error handling so that if an image isn't loading right, it displays a blank image
+- add the "Top Picks" label in the home page
+- allow users to save posts that they like -- idk why this isn't working
+- allow users to share a post with another person (this might be for later, depends how hard it is)
+- restriction on length of username? restrictions on things you can text people?
+- later: 
+	- add the following to drawings: 
+		- think about what notifications we need and where they can be displayed 
+		- add "my purchases" under the profile (maybe two different screens you just swipe within the profile page)
+	- explore allowing users to block/report others, sign out, and leave a review
+	- when we do services, make sure people can leave reviews about another user and the help they provided
+	- questions for Reagan: 
+		- too similar to Instagram? We can't be ripping them off
+		- too much like the Apple music search page? 
+- categories for search page: 
+	- Bikes
+	- Electronics
+	- Clothes
+	- Furniture
+	- Arts & Crafts
+	- Books 
+	- Home Decor 
+	- Fashion
+	- Beauty
+	- Appliances
+	- Miscellaneous
+	- Free
+
+CJ's Todos:
+- include image of item next to chat page
+- make the username of chatter bold when a message arrives 
+- if user has a new message waiting for them, add some type of icon to the
+  send icon in the top right 
+- add notifications when user gets a message
+- 
+
+
+
+Thoughts about what we need to add:
+- multiple images per post
+- ability to change password 
+	- forgot password capabilities? have that on the sign in page
+- ability to edit post once it is posted? change price, etc.
+
+
+
+
+
+
+Ideas for future: 
+- add in NIL opportunities page
+- link Instagram/Snapchat to profiles? So people can easily follow you there 
+- add job/opportunity posting page -- ex: if a person needs to recruit a team of 3 engineers for a project, they post it there 
+- allow people to buy/sell services (we could call gigs). Quick ways to make money. ex: someone needs help moving out for $50

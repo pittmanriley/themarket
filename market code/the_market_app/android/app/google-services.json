@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446302672981",
+    "project_id": "the-ma-53488",
+    "storage_bucket": "the-ma-53488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446302672981:android:d8f3dc69b5c67c6f8a1cdc",
+        "android_client_info": {
+          "package_name": "com.example.the_market_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsA80Jxcbsxq3ATrU_BNx9Ai519GamLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
