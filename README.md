@@ -8,4 +8,4 @@ Major features:
 - Customizable profile page
 - Post page that allows a user to upload up to 5 images
 
-You'll find most of the applicable code in the 'lib' folder.
+You'll find most of the applicable code in the 'lib' folder within 'market code'.
